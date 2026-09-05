@@ -25,7 +25,7 @@ Aplikasi dibangun dengan:
 ## Struktur Folder
 
 ```
-C:\xampp\htdocs\todolist/
+todolist/
 ├── index.php                # Halaman utama
 ├── includes/
 │   ├── functions.php        # Logika aplikasi (fungsi CRUD & render)
