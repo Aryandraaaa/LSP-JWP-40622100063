@@ -48,7 +48,7 @@ todolist/
 
 ## Cara Menjalankan
 
-1. **Salin folder** proyek ini ke dalam `C:\xampp\htdocs\`.
+1. **Salin folder** proyek ini yang sudah diekstrak ke dalam `C:\xampp\htdocs\`.
 
    ```
    C:\xampp\htdocs\todolist\
